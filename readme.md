@@ -201,7 +201,7 @@ Android: `ti.imagefactory 4.0.0`
 
 ## 📚Learn More
 
-- [Ti.Identity GitHub Repo](https://github.com/appcelerator-modules/titanium-imagefactory)
+- [Ti.ImageFactory GitHub Repo](https://github.com/appcelerator-modules/ti.imagefactory)
 
 ## 📣 Feedback
 
@@ -209,7 +209,7 @@ Have an idea or a comment?  [Join in the conversation here](https://github.com/b
 
 ## ©️ Legal
 
-Modules are licensed under Apache 2.0 from https://github.com/appcelerator-modules/titanium-identity
+Modules are licensed under Apache 2.0 from https://github.com/appcelerator-modules/ti.imagefactory
 
 Alloy is developed by Appcelerator and the community and is Copyright © 2012-Present by Appcelerator, Inc. All Rights Reserved.
 
