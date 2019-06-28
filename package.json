@@ -1,0 +1,44 @@
+{
+	"name": "@titanium/imagefactory",
+	"version": "0.0.1",
+	"description": "Titanium native mobile image transformation functions including the ability to scale, crop, and compress images.",
+	"main": "index.js",
+	"scripts": {
+		"list-files": "npm pack && tar -xvzf *.tgz && rm -rf package *.tgz",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": {
+		"name": "Brenton House",
+		"email": "brenton.house@gmail.com",
+		"url": "https://brenton.house"
+	},
+	"repository": {
+		"type": "git",
+		"url": "github:brentonhouse/titanium-imagefactory"
+	},
+	"license": "Apache-2.0",
+	"bugs": {
+		"url": "https://github.com/brentonhouse/titanium-imagefactory/issues"
+	},
+	"homepage": "https://github.com/brentonhouse/titanium-imagefactory#readme",
+	"keywords": [
+		"titanium",
+		"mobile",
+		"alloy",
+		"turbo",
+		"axway",
+		"appcelerator",
+		"ios",
+		"android",
+		"iphone",
+		"ipad",
+		"brentonhouse"
+	],
+	"titanium": {
+		"type": "native-module",
+		"platform": [
+			"ios",
+			"android"
+		]
+	}
+}
