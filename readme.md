@@ -5,32 +5,32 @@
 
 > Titanium native mobile image transformation functions including the ability to scale, crop, and compress images.
 
-- [📝 Description](#-Description)
-- [🚀 Getting Started](#-Getting-Started)
-- [Accessing the Ti.ImageFactory Module](#Accessing-the-TiImageFactory-Module)
-	- [Methods](#Methods)
-		- [imageWithRotation(blob, options)](#imageWithRotationblob-options)
-			- [Arguments](#Arguments)
-		- [imageWithAlpha(blob, options)](#imageWithAlphablob-options)
-			- [Arguments](#Arguments-1)
-		- [imageWithTransparentBorder(blob, options)](#imageWithTransparentBorderblob-options)
-			- [Arguments](#Arguments-2)
-		- [imageWithRoundedCorner(blob, options)](#imageWithRoundedCornerblob-options)
-			- [Arguments](#Arguments-3)
-		- [imageAsThumbnail(blob, options)](#imageAsThumbnailblob-options)
-			- [Arguments](#Arguments-4)
-		- [imageAsResized(blob, options)](#imageAsResizedblob-options)
-			- [Arguments](#Arguments-5)
-		- [imageAsCropped(blob, options)](#imageAsCroppedblob-options)
-			- [Arguments](#Arguments-6)
-		- [imageTransform(blob, options)](#imageTransformblob-options)
-			- [Arguments](#Arguments-7)
+- [📝 Description](#-description)
+- [🚀 Getting Started](#-getting-started)
+- [Accessing the @titanium/imagefactory Module](#accessing-the-titaniumimagefactory-module)
+	- [Methods](#methods)
+		- [imageWithRotation(blob, options)](#imagewithrotationblob-options)
+			- [Arguments](#arguments)
+		- [imageWithAlpha(blob, options)](#imagewithalphablob-options)
+			- [Arguments](#arguments-1)
+		- [imageWithTransparentBorder(blob, options)](#imagewithtransparentborderblob-options)
+			- [Arguments](#arguments-2)
+		- [imageWithRoundedCorner(blob, options)](#imagewithroundedcornerblob-options)
+			- [Arguments](#arguments-3)
+		- [imageAsThumbnail(blob, options)](#imageasthumbnailblob-options)
+			- [Arguments](#arguments-4)
+		- [imageAsResized(blob, options)](#imageasresizedblob-options)
+			- [Arguments](#arguments-5)
+		- [imageAsCropped(blob, options)](#imageascroppedblob-options)
+			- [Arguments](#arguments-6)
+		- [imageTransform(blob, options)](#imagetransformblob-options)
+			- [Arguments](#arguments-7)
 		- [compress(blob, quality)](#compressblob-quality)
-			- [Arguments](#Arguments-8)
-- [✨Features](#Features)
-- [📚Learn More](#Learn-More)
-- [📣 Feedback](#-Feedback)
-- [©️ Legal](#️-Legal)
+			- [Arguments](#arguments-8)
+- [✨Features](#features)
+- [📚Learn More](#learn-more)
+- [📣 Feedback](#-feedback)
+- [©️ Legal](#️-legal)
 
 
 ## 📝 Description
@@ -45,12 +45,12 @@ Ti.ImageFactory provides a set of image transformation functions including the a
 npm install @titanium/imagefactory
 ```
 
-## Accessing the Ti.ImageFactory Module
+## Accessing the @titanium/imagefactory Module
 
 To access this module from JavaScript, you would do the following:
 
 ```js
-var ImageFactory = require('ti.imagefactory');
+const imageFactory = require('@titanium/imagefactory');
 ```
 
 ### Methods
