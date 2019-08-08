@@ -1,13 +1,13 @@
 {
 	"name": "@titanium/imagefactory",
-	"version": "0.0.6",
+	"version": "1.0.0",
 	"description": "Titanium native mobile image transformation functions including the ability to scale, crop, and compress images.",
 	"main": "index.js",
 	"scripts": {
 		"list-files": "npm pack && tar -xvzf *.tgz && rm -rf package *.tgz",
 		"postinstall": "tiapp-remove-module ti.imagefactory && tiapp-add-module ti.imagefactory ios 1.3.0 && tiapp-add-module ti.imagefactory android 4.0.0",
 		"postuninstall": "tiapp-remove-module ti.imagefactory",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "npm install --ignore-scripts && npm run list-files"
 	},
 	"author": {
 		"name": "Brenton House",
@@ -41,7 +41,8 @@
 		"android",
 		"iphone",
 		"ipad",
-		"brentonhouse"
+		"titanium-native-module",
+		"brenton-house"
 	],
 	"titanium": {
 		"type": "native-module",
