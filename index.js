@@ -1,1 +1,1 @@
-module.exports = require('ti.imagefactory');
+module.exports = require('titanium-imagefactory');

@@ -12,8 +12,8 @@ copyright: Copyright (c) 2013-2017 by Appcelerator,  Inc.
 
 
 # these should not be edited
-name: imagefactory
-moduleid: ti.imagefactory
+name: titanium-imagefactory
+moduleid: titanium-imagefactory
 guid: 0aab25d7-0486-40ab-94a3-ed4f9a293414
 platform: iphone
 minsdk: 5.0.0.GA
