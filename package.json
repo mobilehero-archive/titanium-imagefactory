@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/imagefactory",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Titanium native mobile image transformation functions including the ability to scale, crop, and compress images.",
 	"main": "index.js",
 	"scripts": {
@@ -42,11 +42,11 @@
 	],
 	"titanium": {
 		"type": "native-module",
-		"version": "1.0.4",
-		"moduleid": "titanium-imagefactory",
-		"name": "titanium-imagefactory",
 		"platform": {
 			"ios": {
+				"moduleid": "ti.imagefactory",
+				"name": "imagefactory",
+				"version": "1.3.0",
 				"apiversion": 2,
 				"architectures": [
 					"armv7",
@@ -58,6 +58,9 @@
 				"guid": "0aab25d7-0486-40ab-94a3-ed4f9a293414"
 			},
 			"android": {
+				"moduleid": "ti.imagefactory",
+				"name": "imagefactory",
+				"version": "4.0.0",
 				"apiversion": 4,
 				"architectures": [
 					"arm64-v8a",
@@ -70,6 +73,6 @@
 		}
 	},
 	"dependencies": {
-		"@titanium/tiapp-xml": "^0.9.1"
+		"@titanium/tiapp-xml": "^0.9.4"
 	}
 }
