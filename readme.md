@@ -9,7 +9,7 @@
 
 # @titanium/imagefactory
 
-![https://www.npmjs.com/package/@titanium/imagefactory](https://img.shields.io/npm/v/@titanium/imagefactory.png)
+[![@titanium/imagefactory](https://img.shields.io/npm/v/@titanium/imagefactory.png)](https://www.npmjs.com/package/@titanium/imagefactory)
 
 
 > Titanium native mobile image transformation functions including the ability to scale, crop, and compress images.
