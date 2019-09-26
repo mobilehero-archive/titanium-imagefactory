@@ -1,3 +1,12 @@
+
+<a href="#titaniumimagefactory">
+	<p align="center">
+	<img src="https://cdn.secure-api.org/images/warning-sign-area51.png" width="80%" />
+	<img src="https://cdn.secure-api.org/images/border-line-3.png" width="70%" height="50" />
+	</p>
+</a>
+
+
 # @titanium/imagefactory
 
 ![https://www.npmjs.com/package/@titanium/imagefactory](https://img.shields.io/npm/v/@titanium/imagefactory.png)
@@ -5,32 +14,32 @@
 
 > Titanium native mobile image transformation functions including the ability to scale, crop, and compress images.
 
-- [📝 Description](#-description)
-- [🚀 Getting Started](#-getting-started)
-- [Accessing the @titanium/imagefactory Module](#accessing-the-titaniumimagefactory-module)
-	- [Methods](#methods)
-		- [imageWithRotation(blob, options)](#imagewithrotationblob-options)
-			- [Arguments](#arguments)
-		- [imageWithAlpha(blob, options)](#imagewithalphablob-options)
-			- [Arguments](#arguments-1)
-		- [imageWithTransparentBorder(blob, options)](#imagewithtransparentborderblob-options)
-			- [Arguments](#arguments-2)
-		- [imageWithRoundedCorner(blob, options)](#imagewithroundedcornerblob-options)
-			- [Arguments](#arguments-3)
-		- [imageAsThumbnail(blob, options)](#imageasthumbnailblob-options)
-			- [Arguments](#arguments-4)
-		- [imageAsResized(blob, options)](#imageasresizedblob-options)
-			- [Arguments](#arguments-5)
-		- [imageAsCropped(blob, options)](#imageascroppedblob-options)
-			- [Arguments](#arguments-6)
-		- [imageTransform(blob, options)](#imagetransformblob-options)
-			- [Arguments](#arguments-7)
-		- [compress(blob, quality)](#compressblob-quality)
-			- [Arguments](#arguments-8)
-- [✨Features](#features)
-- [📚Learn More](#learn-more)
-- [📣 Feedback](#-feedback)
-- [©️ Legal](#️-legal)
+* [📝 Description](#-description)
+* [🚀 Getting Started](#-getting-started)
+* [Accessing the @titanium/imagefactory Module](#accessing-the-titaniumimagefactory-module)
+	* [Methods](#methods)
+		* [imageWithRotation(blob, options)](#imagewithrotationblob-options)
+			* [Arguments](#arguments)
+		* [imageWithAlpha(blob, options)](#imagewithalphablob-options)
+			* [Arguments](#arguments-1)
+		* [imageWithTransparentBorder(blob, options)](#imagewithtransparentborderblob-options)
+			* [Arguments](#arguments-2)
+		* [imageWithRoundedCorner(blob, options)](#imagewithroundedcornerblob-options)
+			* [Arguments](#arguments-3)
+		* [imageAsThumbnail(blob, options)](#imageasthumbnailblob-options)
+			* [Arguments](#arguments-4)
+		* [imageAsResized(blob, options)](#imageasresizedblob-options)
+			* [Arguments](#arguments-5)
+		* [imageAsCropped(blob, options)](#imageascroppedblob-options)
+			* [Arguments](#arguments-6)
+		* [imageTransform(blob, options)](#imagetransformblob-options)
+			* [Arguments](#arguments-7)
+		* [compress(blob, quality)](#compressblob-quality)
+			* [Arguments](#arguments-8)
+* [✨Features](#features)
+* [📚Learn More](#learn-more)
+* [📣 Feedback](#-feedback)
+* [©️ Legal](#️-legal)
 
 
 ## 📝 Description
