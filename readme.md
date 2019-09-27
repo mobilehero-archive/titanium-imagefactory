@@ -10,6 +10,8 @@
 # @titanium/imagefactory
 
 [![@titanium/imagefactory](https://img.shields.io/npm/v/@titanium/imagefactory.png)](https://www.npmjs.com/package/@titanium/imagefactory)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=brentonhouse/titanium-imagefactory)](https://dependabot.com)
+
 
 
 > Titanium native mobile image transformation functions including the ability to scale, crop, and compress images.

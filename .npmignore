@@ -3,7 +3,7 @@
 .eslintrc
 .eslintrc.yml
 
-
+.dependabot
 
 # OS Directories and Files
 .DS_Store
