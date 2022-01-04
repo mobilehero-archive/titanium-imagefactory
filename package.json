@@ -1,14 +1,14 @@
 {
 	"name": "@titanium/imagefactory",
-	"version": "1.0.11",
-	"description": "Titanium native mobile image transformation functions including the ability to scale, crop, and compress images.",
+	"version": "1.0.12",
+	"description": "Axway Amplify module for image transformation - scale, crop, and compress images - for Appcelerator Titanium Mobile",
 	"main": "index.js",
 	"scripts": {
 		"list-files": "npm pack && tar -xvzf *.tgz && rm -rf package *.tgz",
 		"postinstall": "tiapp-install-module",
 		"postuninstall": "tiapp-uninstall-module",
 		"test": "npm install --ignore-scripts && npm run list-files",
-		"prepublishOnly2": "git pull && bump"
+		"prepublishOnly": "git pull && bump insane"
 	},
 	"author": "Axway",
 	"maintainers": [
@@ -26,7 +26,7 @@
 	"bugs": {
 		"url": "https://github.com/brentonhouse/titanium-imagefactory/issues"
 	},
-	"homepage": "https://github.com/brentonhouse/titanium-imagefactory#readme",
+	"homepage": "https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de",
 	"keywords": [
 		"titanium",
 		"mobile",
@@ -39,6 +39,16 @@
 		"iphone",
 		"ipad",
 		"titanium-native-module",
+		"sdk",
+		"plugin",
+		"amplify",
+		"api-builder",
+		"appcelerator-titanium",
+		"titanium-sdk",
+		"titanium-mobile",
+		"titanium-module",
+		"axway-sdk",
+		"axway-amplify",
 		"brenton-house"
 	],
 	"titanium": {
