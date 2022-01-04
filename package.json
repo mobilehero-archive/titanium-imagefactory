@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/imagefactory",
-	"version": "1.0.9",
+	"version": "1.0.10",
 	"description": "Titanium native mobile image transformation functions including the ability to scale, crop, and compress images.",
 	"main": "index.js",
 	"scripts": {
@@ -75,5 +75,8 @@
 	},
 	"dependencies": {
 		"@titanium/tiapp-xml": "^1.0.4"
+	},
+	"devDependencies": {
+		"lodash": "^4.17.15"
 	}
 }
