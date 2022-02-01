@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/imagefactory",
-	"version": "1.0.42",
+	"version": "1.0.43",
 	"description": "⭐  Axway Amplify module for image transformation - scale, crop, and compress images - for Appcelerator Titanium Mobile",
 	"main": "index.js",
 	"scripts": {
@@ -89,7 +89,7 @@
 		"@geek/config": "^1.0.1",
 		"@geek/dotenv": "^0.0.9",
 		"@geek/eslint-config": "^1.0.3",
-		"@geek/jsonc": "^1.0.6",
+		"@geek/jsonc": "^1.0.8",
 		"@geek/jwt": "^1.0.1",
 		"@geek/logger": "^1.0.18",
 		"@geek/retry": "^1.0.0",
@@ -107,7 +107,7 @@
 		"@titanium/eventsource": "^1.0.39",
 		"@titanium/identity": "^2.0.38",
 		"@titanium/json5": "^1.0.30",
-		"@titanium/jsonc": "^1.0.32",
+		"@titanium/jsonc": "^1.0.33",
 		"@titanium/jwt": "^1.0.36",
 		"@titanium/module-copier": "^1.0.44",
 		"@titanium/please": "^1.0.43",
@@ -117,10 +117,10 @@
 		"@titanium/titanium": "^5.4.42",
 		"@titanium/turbo": "^2.2.61",
 		"nativeloop": "^1.0.30",
-		"tiapp-dir": "^1.0.34"
+		"tiapp-dir": "^1.0.35"
 	},
 	"devDependencies": {
-		"@titanium/essentials": "^1.0.68",
+		"@titanium/essentials": "^1.0.69",
 		"lodash": "^4.17.21"
 	}
 }
