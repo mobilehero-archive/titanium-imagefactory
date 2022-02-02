@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/imagefactory",
-	"version": "1.0.44",
+	"version": "1.0.45",
 	"description": "⭐  Axway Amplify module for image transformation - scale, crop, and compress images - for Appcelerator Titanium Mobile",
 	"main": "index.js",
 	"scripts": {
@@ -96,31 +96,31 @@
 		"@geek/spawn": "^1.0.2",
 		"@geek/spinner": "^1.0.2",
 		"@geek/tld": "^2.0.1-1",
-		"@nativeloop/mobile": "^1.0.35",
-		"@titanium/appcelerator": "^6.0.35",
+		"@nativeloop/mobile": "^1.0.36",
+		"@titanium/appcelerator": "^6.0.36",
 		"@titanium/authentication": "^1.0.47",
-		"@titanium/authentication-mock": "^1.0.31",
+		"@titanium/authentication-mock": "^1.0.32",
 		"@titanium/authentication-oauth": "^1.0.50",
 		"@titanium/bluebird": "^3.7.40",
-		"@titanium/errors": "^1.0.36",
+		"@titanium/errors": "^1.0.37",
 		"@titanium/events": "^1.0.46",
-		"@titanium/eventsource": "^1.0.41",
-		"@titanium/identity": "^2.0.39",
-		"@titanium/json5": "^1.0.31",
+		"@titanium/eventsource": "^1.0.42",
+		"@titanium/identity": "^2.0.40",
+		"@titanium/json5": "^1.0.32",
 		"@titanium/jsonc": "^1.0.33",
-		"@titanium/jwt": "^1.0.37",
+		"@titanium/jwt": "^1.0.38",
 		"@titanium/module-copier": "^1.0.44",
-		"@titanium/please": "^1.0.44",
-		"@titanium/polyfill": "^1.0.43",
+		"@titanium/please": "^1.0.46",
+		"@titanium/polyfill": "^1.0.44",
 		"@titanium/querystring": "^1.0.36",
-		"@titanium/tiapp-xml": "^1.0.45",
-		"@titanium/titanium": "^5.4.42",
+		"@titanium/tiapp-xml": "^1.0.46",
+		"@titanium/titanium": "^5.4.44",
 		"@titanium/turbo": "^2.2.62",
 		"nativeloop": "^1.0.31",
-		"tiapp-dir": "^1.0.35"
+		"tiapp-dir": "^1.0.36"
 	},
 	"devDependencies": {
-		"@titanium/essentials": "^1.0.69",
+		"@titanium/essentials": "^1.0.70",
 		"lodash": "^4.17.21"
 	}
 }
